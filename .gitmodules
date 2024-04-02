@@ -1,9 +1,9 @@
-[submodule "Hardware/VULPES-Controller"]
-	path = Hardware/VULPES-Controller
-	url = https://github.com/Kitsune-Robotics/VULPES-Controller.git
 [submodule "Hardware/FENNEC-Modem"]
 	path = Hardware/FENNEC-Modem
 	url = https://github.com/Kitsune-Robotics/FENNEC-Modem.git
 [submodule "Hardware/CANIO"]
 	path = Hardware/CANIO
 	url = https://github.com/Kitsune-Robotics/CANIO.git
+[submodule "Hardware/KIT-Controller"]
+	path = Hardware/KIT-Controller
+	url = https://github.com/Kitsune-Robotics/KIT-Controller.git
