@@ -7,18 +7,22 @@
 
 ```mermaid
 journey
-    title Project Timeline
+    title VENTURE Project Timeline
 
     section Completed
         - Frame Welded : 5 : Mike
 
     section In Progress
-        - Drivetrain Functional : 4 : Joe, Mike
-        - KIT Controller Prototype : 1 : Joe
+        - Drivetrain Functional : 3 : Joe, Mike
+        - KIT Controller Prototype : 3 : Joe
+        - FENNEC Modem Prototype : 1 : Joe
         - Web GUI : 2 : Joe
+        - KIT Controller Nav : 1 : Joe
 
     section Future
         - CANIO Firmware : 0 : Joe
+        - Robotstreamer Integration : 0 : Joe
+        - Discord Integration : 0 : Joe
 
 ```
 
