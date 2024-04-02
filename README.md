@@ -5,6 +5,23 @@
 
 ![Banner](Static/Banner.png)
 
+```mermaid
+journey
+    title Project Timeline
+
+    section Completed
+        - Frame Welded : 5 : Mike
+
+    section In Progress
+        - Drivetrain Functional : 4 : Joe, Mike
+        - KIT Controller Prototype : 1 : Joe
+        - Web GUI : 2 : Joe
+
+    section Future
+        - CANIO Firmware : 0 : Joe
+
+```
+
 This repo contains all the firmware and hardware for the VENTURE-1.
 
 If you're looking for the latest docs/builds, see our [Releases Page](https://github.com/Kitsune-Robotics/VENTURE-1/releases).
