@@ -35,7 +35,7 @@ If you're looking for the latest docs/builds, see our [Releases Page](https://gi
 First, clone this repo (and optionally checkout a branch)
 
 ```shell
-git clone https://github.com/Kitsune-Robotics/VENTURE-1.git
+git clone https://github.com/Kitsune-Robotics/VENTURE-1.git --recurse-submodules
 cd VENTURE-1
 ```
 
